@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "672e15761cb5268fe7819ea8"
+  },
+  "first_name": "Sanchit ",
+  "last_name": "Thapliyal",
+  "profile_picture": "https://cdn-icons-png.flaticon.com/512/3135/3135768.png"
+},
+{
+  "_id": {
+    "$oid": "672e159d1cb5268fe7819ea9"
+  },
+  "first_name": "Srishti",
+  "last_name": "Rana",
+  "profile_picture": "https://cdn-icons-png.flaticon.com/512/3135/3135768.png"
+},
+{
+  "_id": {
+    "$oid": "672f0b1dc3433a89b6fff697"
+  },
+  "first_name": "Ritika",
+  "last_name": "Nagar",
+  "profile_picture": "https://cdn-icons-png.flaticon.com/512/3135/3135768.png"
+}]

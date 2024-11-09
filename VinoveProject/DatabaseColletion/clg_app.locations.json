@@ -1,0 +1,546 @@
+[{
+  "_id": {
+    "$oid": "672e1d59d2789e7e37178600"
+  },
+  "userId": "672e15761cb5268fe7819ea8",
+  "latitude": 28.7041,
+  "longitude": 77.1025,
+  "timestamp": {
+    "$date": "2024-11-02T10:30:00.000Z"
+  },
+  "address": "Connaught Place, New Delhi"
+},
+{
+  "_id": {
+    "$oid": "672e1d59d2789e7e37178601"
+  },
+  "userId": "672e15761cb5268fe7819ea8",
+  "latitude": 28.7042,
+  "longitude": 77.1026,
+  "timestamp": {
+    "$date": "2024-11-02T10:35:00.000Z"
+  },
+  "address": "Connaught Place, New Delhi"
+},
+{
+  "_id": {
+    "$oid": "672e1d59d2789e7e37178602"
+  },
+  "userId": "672e15761cb5268fe7819ea8",
+  "latitude": 28.7041,
+  "longitude": 77.1024,
+  "timestamp": {
+    "$date": "2024-11-02T10:45:00.000Z"
+  },
+  "address": "Connaught Place, New Delhi"
+},
+{
+  "_id": {
+    "$oid": "672e1d59d2789e7e37178603"
+  },
+  "userId": "672e15761cb5268fe7819ea8",
+  "latitude": 28.705,
+  "longitude": 77.103,
+  "timestamp": {
+    "$date": "2024-11-02T11:00:00.000Z"
+  },
+  "address": "Janpath, New Delhi"
+},
+{
+  "_id": {
+    "$oid": "672e1d59d2789e7e37178604"
+  },
+  "userId": "672e15761cb5268fe7819ea8",
+  "latitude": 28.7051,
+  "longitude": 77.1031,
+  "timestamp": {
+    "$date": "2024-11-02T11:10:00.000Z"
+  },
+  "address": "Janpath, New Delhi"
+},
+{
+  "_id": {
+    "$oid": "672e1d59d2789e7e37178605"
+  },
+  "userId": "672e15761cb5268fe7819ea8",
+  "latitude": 28.7052,
+  "longitude": 77.1032,
+  "timestamp": {
+    "$date": "2024-11-02T11:20:00.000Z"
+  },
+  "address": "Janpath, New Delhi"
+},
+{
+  "_id": {
+    "$oid": "672e1d59d2789e7e37178606"
+  },
+  "userId": "672e15761cb5268fe7819ea8",
+  "latitude": 28.7041,
+  "longitude": 77.1025,
+  "timestamp": {
+    "$date": "2024-11-02T12:00:00.000Z"
+  },
+  "address": "Connaught Place, New Delhi"
+},
+{
+  "_id": {
+    "$oid": "672e1d59d2789e7e37178607"
+  },
+  "userId": "672e15761cb5268fe7819ea8",
+  "latitude": 28.7042,
+  "longitude": 77.1026,
+  "timestamp": {
+    "$date": "2024-11-02T12:15:00.000Z"
+  },
+  "address": "Connaught Place, New Delhi"
+},
+{
+  "_id": {
+    "$oid": "672e1d59d2789e7e37178608"
+  },
+  "userId": "672e15761cb5268fe7819ea8",
+  "latitude": 28.706,
+  "longitude": 77.104,
+  "timestamp": {
+    "$date": "2024-11-02T13:00:00.000Z"
+  },
+  "address": "India Gate, New Delhi"
+},
+{
+  "_id": {
+    "$oid": "672e1d59d2789e7e37178609"
+  },
+  "userId": "672e15761cb5268fe7819ea8",
+  "latitude": 28.706,
+  "longitude": 77.1041,
+  "timestamp": {
+    "$date": "2024-11-02T13:20:00.000Z"
+  },
+  "address": "India Gate, New Delhi"
+},
+{
+  "_id": {
+    "$oid": "672e1d59d2789e7e3717860a"
+  },
+  "userId": "672e15761cb5268fe7819ea8",
+  "latitude": 28.61,
+  "longitude": 77.23,
+  "timestamp": {
+    "$date": "2024-11-02T10:00:00.000Z"
+  },
+  "address": "Delhi University"
+},
+{
+  "_id": {
+    "$oid": "672e1d59d2789e7e3717860b"
+  },
+  "userId": "672e15761cb5268fe7819ea8",
+  "latitude": 28.6101,
+  "longitude": 77.2301,
+  "timestamp": {
+    "$date": "2024-11-02T10:10:00.000Z"
+  },
+  "address": "Delhi University"
+},
+{
+  "_id": {
+    "$oid": "672e1d59d2789e7e3717860c"
+  },
+  "userId": "672e15761cb5268fe7819ea8",
+  "latitude": 28.611,
+  "longitude": 77.231,
+  "timestamp": {
+    "$date": "2024-11-02T11:00:00.000Z"
+  },
+  "address": "North Campus, Delhi University"
+},
+{
+  "_id": {
+    "$oid": "672e1d98d2789e7e3717860d"
+  },
+  "userId": "672e15761cb5268fe7819ea8",
+  "latitude": 28.7041,
+  "longitude": 77.1025,
+  "timestamp": {
+    "$date": "2024-11-02T10:30:00.000Z"
+  },
+  "address": "Connaught Place, New Delhi"
+},
+{
+  "_id": {
+    "$oid": "672e1d98d2789e7e3717860e"
+  },
+  "userId": "672e15761cb5268fe7819ea8",
+  "latitude": 28.7042,
+  "longitude": 77.1026,
+  "timestamp": {
+    "$date": "2024-11-02T10:35:00.000Z"
+  },
+  "address": "Connaught Place, New Delhi"
+},
+{
+  "_id": {
+    "$oid": "672e1d98d2789e7e3717860f"
+  },
+  "userId": "672e15761cb5268fe7819ea8",
+  "latitude": 28.7041,
+  "longitude": 77.1024,
+  "timestamp": {
+    "$date": "2024-11-02T10:45:00.000Z"
+  },
+  "address": "Connaught Place, New Delhi"
+},
+{
+  "_id": {
+    "$oid": "672e1d98d2789e7e37178610"
+  },
+  "userId": "672e15761cb5268fe7819ea8",
+  "latitude": 28.705,
+  "longitude": 77.103,
+  "timestamp": {
+    "$date": "2024-11-02T11:00:00.000Z"
+  },
+  "address": "Janpath, New Delhi"
+},
+{
+  "_id": {
+    "$oid": "672e1d98d2789e7e37178611"
+  },
+  "userId": "672e15761cb5268fe7819ea8",
+  "latitude": 28.7051,
+  "longitude": 77.1031,
+  "timestamp": {
+    "$date": "2024-11-02T11:10:00.000Z"
+  },
+  "address": "Janpath, New Delhi"
+},
+{
+  "_id": {
+    "$oid": "672e1d98d2789e7e37178612"
+  },
+  "userId": "672e15761cb5268fe7819ea8",
+  "latitude": 28.7052,
+  "longitude": 77.1032,
+  "timestamp": {
+    "$date": "2024-11-02T11:20:00.000Z"
+  },
+  "address": "Janpath, New Delhi"
+},
+{
+  "_id": {
+    "$oid": "672e1d98d2789e7e37178613"
+  },
+  "userId": "672e15761cb5268fe7819ea8",
+  "latitude": 28.7041,
+  "longitude": 77.1025,
+  "timestamp": {
+    "$date": "2024-11-02T12:00:00.000Z"
+  },
+  "address": "Connaught Place, New Delhi"
+},
+{
+  "_id": {
+    "$oid": "672e1d98d2789e7e37178614"
+  },
+  "userId": "672e15761cb5268fe7819ea8",
+  "latitude": 28.7042,
+  "longitude": 77.1026,
+  "timestamp": {
+    "$date": "2024-11-02T12:15:00.000Z"
+  },
+  "address": "Connaught Place, New Delhi"
+},
+{
+  "_id": {
+    "$oid": "672e1d98d2789e7e37178615"
+  },
+  "userId": "672e15761cb5268fe7819ea8",
+  "latitude": 28.706,
+  "longitude": 77.104,
+  "timestamp": {
+    "$date": "2024-11-02T13:00:00.000Z"
+  },
+  "address": "India Gate, New Delhi"
+},
+{
+  "_id": {
+    "$oid": "672e1d98d2789e7e37178616"
+  },
+  "userId": "672e15761cb5268fe7819ea8",
+  "latitude": 28.706,
+  "longitude": 77.1041,
+  "timestamp": {
+    "$date": "2024-11-02T13:20:00.000Z"
+  },
+  "address": "India Gate, New Delhi"
+},
+{
+  "_id": {
+    "$oid": "672e1d98d2789e7e37178617"
+  },
+  "userId": "672e15761cb5268fe7819ea8",
+  "latitude": 28.61,
+  "longitude": 77.23,
+  "timestamp": {
+    "$date": "2024-11-02T10:00:00.000Z"
+  },
+  "address": "Delhi University"
+},
+{
+  "_id": {
+    "$oid": "672e1d98d2789e7e37178618"
+  },
+  "userId": "672e15761cb5268fe7819ea8",
+  "latitude": 28.6101,
+  "longitude": 77.2301,
+  "timestamp": {
+    "$date": "2024-11-02T10:10:00.000Z"
+  },
+  "address": "Delhi University"
+},
+{
+  "_id": {
+    "$oid": "672e1d98d2789e7e37178619"
+  },
+  "userId": "672e15761cb5268fe7819ea8",
+  "latitude": 28.611,
+  "longitude": 77.231,
+  "timestamp": {
+    "$date": "2024-11-02T11:00:00.000Z"
+  },
+  "address": "North Campus, Delhi University"
+},
+{
+  "_id": {
+    "$oid": "672e1d9ed2789e7e3717861a"
+  },
+  "userId": "672e15761cb5268fe7819ea8",
+  "latitude": 28.7041,
+  "longitude": 77.1025,
+  "timestamp": {
+    "$date": "2024-11-02T10:30:00.000Z"
+  },
+  "address": "Connaught Place, New Delhi"
+},
+{
+  "_id": {
+    "$oid": "672e1d9ed2789e7e3717861b"
+  },
+  "userId": "672e15761cb5268fe7819ea8",
+  "latitude": 28.7042,
+  "longitude": 77.1026,
+  "timestamp": {
+    "$date": "2024-11-02T10:35:00.000Z"
+  },
+  "address": "Connaught Place, New Delhi"
+},
+{
+  "_id": {
+    "$oid": "672e1d9ed2789e7e3717861c"
+  },
+  "userId": "672e15761cb5268fe7819ea8",
+  "latitude": 28.7041,
+  "longitude": 77.1024,
+  "timestamp": {
+    "$date": "2024-11-02T10:45:00.000Z"
+  },
+  "address": "Connaught Place, New Delhi"
+},
+{
+  "_id": {
+    "$oid": "672e1d9ed2789e7e3717861d"
+  },
+  "userId": "672e15761cb5268fe7819ea8",
+  "latitude": 28.705,
+  "longitude": 77.103,
+  "timestamp": {
+    "$date": "2024-11-02T11:00:00.000Z"
+  },
+  "address": "Janpath, New Delhi"
+},
+{
+  "_id": {
+    "$oid": "672e1d9ed2789e7e3717861e"
+  },
+  "userId": "672e15761cb5268fe7819ea8",
+  "latitude": 28.7051,
+  "longitude": 77.1031,
+  "timestamp": {
+    "$date": "2024-11-02T11:10:00.000Z"
+  },
+  "address": "Janpath, New Delhi"
+},
+{
+  "_id": {
+    "$oid": "672e1d9ed2789e7e3717861f"
+  },
+  "userId": "672e15761cb5268fe7819ea8",
+  "latitude": 28.7052,
+  "longitude": 77.1032,
+  "timestamp": {
+    "$date": "2024-11-02T11:20:00.000Z"
+  },
+  "address": "Janpath, New Delhi"
+},
+{
+  "_id": {
+    "$oid": "672e1d9ed2789e7e37178620"
+  },
+  "userId": "672e15761cb5268fe7819ea8",
+  "latitude": 28.7041,
+  "longitude": 77.1025,
+  "timestamp": {
+    "$date": "2024-11-02T12:00:00.000Z"
+  },
+  "address": "Connaught Place, New Delhi"
+},
+{
+  "_id": {
+    "$oid": "672e1d9ed2789e7e37178621"
+  },
+  "userId": "672e15761cb5268fe7819ea8",
+  "latitude": 28.7042,
+  "longitude": 77.1026,
+  "timestamp": {
+    "$date": "2024-11-02T12:15:00.000Z"
+  },
+  "address": "Connaught Place, New Delhi"
+},
+{
+  "_id": {
+    "$oid": "672e1d9ed2789e7e37178622"
+  },
+  "userId": "672e15761cb5268fe7819ea8",
+  "latitude": 28.706,
+  "longitude": 77.104,
+  "timestamp": {
+    "$date": "2024-11-02T13:00:00.000Z"
+  },
+  "address": "India Gate, New Delhi"
+},
+{
+  "_id": {
+    "$oid": "672e1d9ed2789e7e37178623"
+  },
+  "userId": "672e15761cb5268fe7819ea8",
+  "latitude": 28.706,
+  "longitude": 77.1041,
+  "timestamp": {
+    "$date": "2024-11-02T13:20:00.000Z"
+  },
+  "address": "India Gate, New Delhi"
+},
+{
+  "_id": {
+    "$oid": "672e1d9ed2789e7e37178624"
+  },
+  "userId": "672e15761cb5268fe7819ea8",
+  "latitude": 28.61,
+  "longitude": 77.23,
+  "timestamp": {
+    "$date": "2024-11-02T10:00:00.000Z"
+  },
+  "address": "Delhi University"
+},
+{
+  "_id": {
+    "$oid": "672e1d9ed2789e7e37178625"
+  },
+  "userId": "672e15761cb5268fe7819ea8",
+  "latitude": 28.6101,
+  "longitude": 77.2301,
+  "timestamp": {
+    "$date": "2024-11-02T10:10:00.000Z"
+  },
+  "address": "Delhi University"
+},
+{
+  "_id": {
+    "$oid": "672e1d9ed2789e7e37178626"
+  },
+  "userId": "672e15761cb5268fe7819ea8",
+  "latitude": 28.611,
+  "longitude": 77.231,
+  "timestamp": {
+    "$date": "2024-11-02T11:00:00.000Z"
+  },
+  "address": "North Campus, Delhi University"
+},
+{
+  "_id": {
+    "$oid": "672e568b5d132508d098b83f"
+  },
+  "userId": "672e15761cb5268fe7819ea8",
+  "latitude": 30.2821431,
+  "longitude": 78.1098532,
+  "address": "Manav Vihar",
+  "timestamp": {
+    "$date": "2024-11-08T18:20:59.371Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "672ed863d55fed13b1b2cd76"
+  },
+  "userId": "672e159d1cb5268fe7819ea9",
+  "latitude": 30.2821431,
+  "longitude": 78.1098532,
+  "address": "Manav Vihar",
+  "timestamp": {
+    "$date": "2024-11-09T03:34:59.082Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "672ed8c6d55fed13b1b2cd79"
+  },
+  "userId": "c",
+  "latitude": 30.2821431,
+  "longitude": 78.1098532,
+  "address": "Manav Vihar",
+  "timestamp": {
+    "$date": "2024-11-09T03:36:38.256Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "672ed8fcd55fed13b1b2cd7d"
+  },
+  "userId": "672e159d1cb5268fe7819ea9",
+  "latitude": 30.2821431,
+  "longitude": 78.1098532,
+  "address": "Manav Vihar",
+  "timestamp": {
+    "$date": "2024-11-09T03:37:32.302Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "672ed979d55fed13b1b2cd81"
+  },
+  "userId": "672e159d1cb5268fe7819ea9",
+  "latitude": 30.2821431,
+  "longitude": 78.1098532,
+  "address": "Manav Vihar",
+  "timestamp": {
+    "$date": "2024-11-09T03:59:37.453Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "672ed9bbd55fed13b1b2cd83"
+  },
+  "userId": "672e159d1cb5268fe7819ea9",
+  "latitude": 30.2821431,
+  "longitude": 78.1098532,
+  "address": "Manav Vihar",
+  "timestamp": {
+    "$date": "2024-11-09T03:40:43.907Z"
+  },
+  "__v": 0
+}]

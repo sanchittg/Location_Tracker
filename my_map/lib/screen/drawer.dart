@@ -3,55 +3,44 @@ import 'package:flutter/material.dart';
 class CustomDrawer extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
+    final screenHeight = MediaQuery.of(context).size.height;
+    final screenWidth = MediaQuery.of(context).size.width;
+
     return Drawer(
+      backgroundColor: Colors.white,
       child: ListView(
         padding: EdgeInsets.zero,
         children: <Widget>[
           UserAccountsDrawerHeader(
-            accountName: Text('Sanchit'),
-            accountEmail: Text('sanchit@abc.com'),
+            accountName: Text(
+              'Group',
+              style: TextStyle(fontSize: screenWidth * 0.05),
+            ),
+            accountEmail: Text(
+              'group@gmail.com',
+              style: TextStyle(fontSize: screenWidth * 0.04),
+            ),
             currentAccountPicture: CircleAvatar(
-              backgroundImage: AssetImage('assets/profile.jpg'),
+              radius: screenWidth * 0.06,
+              backgroundImage: AssetImage('assets/images/saurabh.png'),
             ),
             decoration: BoxDecoration(
               color: Colors.blue,
             ),
           ),
           ListTile(
-            leading: Icon(Icons.home),
-            title: Text('Home'),
+            leading: Icon(Icons.timer, size: screenWidth * 0.07),
+            title:
+                Text('Timer', style: TextStyle(fontSize: screenWidth * 0.045)),
             onTap: () {
               Navigator.pop(context);
             },
           ),
           ListTile(
-            leading: Icon(Icons.person),
-            title: Text('Profile'),
-            onTap: () {
-              Navigator.pop(context);
-            },
-          ),
-          ListTile(
-            leading: Icon(Icons.shopping_cart),
-            title: Text('Cart'),
-            onTap: () {
-              Navigator.pop(context);
-            },
-          ),
-          ListTile(
-            leading: Icon(Icons.settings),
-            title: Text('Settings'),
-            onTap: () {
-              Navigator.pop(context);
-            },
-          ),
-          Divider(),
-          ListTile(
-            leading: Icon(Icons.logout),
-            title: Text('Logout'),
-            onTap: () {
-              Navigator.pop(context);
-            },
+            leading: Icon(Icons.calendar_month, size: screenWidth * 0.07),
+            title: Text('Attendance',
+                style: TextStyle(fontSize: screenWidth * 0.045)),
+            onTap: () {},
           ),
         ],
       ),

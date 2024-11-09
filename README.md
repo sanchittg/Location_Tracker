@@ -29,11 +29,12 @@
     3.3) Run the Node.js server:  npm run dev
     
 **4) Run the Flutter App:**
-   4.1) Navigate to the frontend folder: cd my_map
+
+    4.1) Navigate to the frontend folder: cd my_map
    
-   4.2) Run the app: flutter run lib/main.dart
+    4.2) Run the app: flutter run lib/main.dart
    
-   4.3) Then choose chrome, for this type : 2
+    4.3) Then choose chrome, for this type : 2
       
 
   

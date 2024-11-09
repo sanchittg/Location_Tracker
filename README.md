@@ -13,8 +13,11 @@
 
 **2) Set Up MongoDB**
     2.1) If you don't already have MongoDB installed locally, first install it from google.
+    
     2.2) After installation, start the MongoDB server using the following command in the terminal This will start MongoDB on the default port (27017):  mongod
+    
     2.3) Now, open a new terminal window and write :  mongo
+    
     2.4) Create a new database by running:  use clg_app
 
 **3) Backend Setup**

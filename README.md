@@ -12,20 +12,20 @@
   Open terminal and copy this command:- git clone https://github.com/sanchittg/Location_Tracker.git
 
 **2) Set Up MongoDB**
-    If you don't already have MongoDB installed locally, first install it from google.
-    After installation, start the MongoDB server using the following command in the terminal This will start MongoDB on the default port (27017).:  mongod
-    Now, open a new terminal window and write :  mongo
-    Create a new database by running: use clg_app
+    2.1) If you don't already have MongoDB installed locally, first install it from google.
+    2.2) After installation, start the MongoDB server using the following command in the terminal This will start MongoDB on the default port (27017):  mongod
+    2.3) Now, open a new terminal window and write :  mongo
+    2.4) Create a new database by running:  use clg_app
 
-**2) Backend Setup**
-    Navigate to the backend folder:  cd VinoveProject
-    Install backend dependencies:  npm install
-    Run the Node.js server:  npm run dev
+**3) Backend Setup**
+    3.1) Navigate to the backend folder:  cd VinoveProject
+    3.2) Install backend dependencies:  npm install
+    3.3) Run the Node.js server:  npm run dev
     
-**3) Run the Flutter App:**
-    Navigate to the frontend folder: cd my_map
-    Run the app: flutter run lib/main.dart
-    Then choose chrome, for this type : 2
+**4) Run the Flutter App:**
+   4.1) Navigate to the frontend folder: cd my_map
+   4.2) Run the app: flutter run lib/main.dart
+   4.3) Then choose chrome, for this type : 2
       
 
   

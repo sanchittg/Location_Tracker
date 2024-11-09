@@ -13,6 +13,7 @@
   Open terminal and copy this command:- git clone https://github.com/sanchittg/Location_Tracker.git
 
 **2) Set Up MongoDB**
+
     2.1) If you don't already have MongoDB installed locally, first install it from google.
     
     2.2) After installation, start the MongoDB server using the following command in the terminal This will start MongoDB on the default port (27017):  mongod
@@ -22,6 +23,7 @@
     2.4) Create a new database by running:  use clg_app
 
 **3) Backend Setup**
+
     3.1) Navigate to the backend folder:  cd VinoveProject
     
     3.2) Install backend dependencies:  npm install
